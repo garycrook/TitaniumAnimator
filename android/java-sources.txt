@@ -1,0 +1,8 @@
+"/Users/garyscrook/Projects/AppceleratorStudio/Modules/TitaniumAnimator/android/src/com/animecyc/animator/AnimationContainer.java"
+"/Users/garyscrook/Projects/AppceleratorStudio/Modules/TitaniumAnimator/android/src/com/animecyc/animator/AnimationContainerAccessor.java"
+"/Users/garyscrook/Projects/AppceleratorStudio/Modules/TitaniumAnimator/android/src/com/animecyc/animator/AnimatorModule.java"
+"/Users/garyscrook/Projects/AppceleratorStudio/Modules/TitaniumAnimator/android/build/generated/java/com/animecyc/animator/AnimatorBootstrap.java"
+"/Users/garyscrook/Projects/AppceleratorStudio/Modules/TitaniumAnimator/android/build/generated/r/android/support/v7/appcompat/R.java"
+"/Users/garyscrook/Projects/AppceleratorStudio/Modules/TitaniumAnimator/android/build/generated/r/android/support/v7/cardview/R.java"
+"/Users/garyscrook/Projects/AppceleratorStudio/Modules/TitaniumAnimator/android/build/generated/r/com/animecyc/animator/R.java"
+"/Users/garyscrook/Projects/AppceleratorStudio/Modules/TitaniumAnimator/android/build/generated/r/ti/modules/titanium/ui/R.java"
