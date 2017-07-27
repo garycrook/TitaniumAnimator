@@ -2,7 +2,6 @@
 
 build/
 tmp/
-*.zip
 
 # iOS
 
@@ -12,7 +11,6 @@ xcuserdata/
 
 # Android
 
-android/dist/
 android/build-local.properties
 android/libs
 
